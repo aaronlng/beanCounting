@@ -1,4 +1,4 @@
-#Bean Counting
+# Bean Counting
 
 Exercise found in Chapter 3 of [Eloquent JavaScript](https://eloquentjavascript.net/).
 
